@@ -1,5 +1,5 @@
 # RPI-CSCI-1100-HW7-dictionaries
-**Rensselaer Polytechnic Institute | Computer Science I | HW 08**
+**Rensselaer Polytechnic Institute | Computer Science I | HW 07**
 
 This repo represents a homework that I have done for my Computer Science I course. Please refer to the pdf file for specific information on the homework.
 
